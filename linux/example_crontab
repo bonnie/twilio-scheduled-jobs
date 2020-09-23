@@ -1,0 +1,6 @@
+15 13 * * 1 "cd ~/twilio-stock-email && ./cronjob.sh"
+15 13 * * 2 "cd ~/twilio-stock-email && ./cronjob.sh"
+15 13 * * 3 "cd ~/twilio-stock-email && ./cronjob.sh"
+15 13 * * 4 "cd ~/twilio-stock-email && ./cronjob.sh"
+15 13 * * 5 "cd ~/twilio-stock-email && ./cronjob.sh"
+
